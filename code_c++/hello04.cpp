@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  
+   
      
      int arr[7];
      cout << "请输入7个整数";
