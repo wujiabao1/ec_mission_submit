@@ -3,7 +3,7 @@
 using namespace std;
 
 class Shape {
-public:
+public: 
     virtual double area() const = 0;  
     virtual double volume() const = 0; 
     virtual ~Shape() {} 

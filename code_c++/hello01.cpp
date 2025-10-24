@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-int count=0;
+int count=0; 
 int a,b,c;
 for(a=1;a<=4;a++){
     for(b=1;b<=4;b++){

@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
   
-    
+     
      int arr[7];
      cout << "请输入7个整数";
      for (int i = 0; i < 7; i++) {

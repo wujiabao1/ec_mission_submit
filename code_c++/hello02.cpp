@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main() {
+int main() { 
     int last=1;
     int n;
     for(n=9;n>=1;n--){
